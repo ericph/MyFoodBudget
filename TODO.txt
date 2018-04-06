@@ -1,0 +1,24 @@
+. fix setCurrentBudget
+    . handle weeks overlapping months
+. statistics activity
+. display message if no expenses in MyExpenses
+. fix MyExpenses ListView stuff
+  	. fix UI so it looks better (section headers?)
+  	. sort Expenses based on date, amount?
+    . fix month spinner and only show current month's expenses
+. fix UI for different phone sizes
+. make UI more creative than default stuff
+. app icon
+
+
+MAYBE
+. add home button instead of just having home in menu
+. add warning popup for setting new budget
+. allow budgets to start on days other than the first of the month
+    (if monthly) or sunday (if weekly)
+. in settings, allow users to customize app more (like colors, etc)
+. show restaurant/grocery expense in MyExpenses ListView
+. look into drawer instead of menu?
+  	. if using menu, use pic instead of circles
+. show amount remaining in MyExpenses
+. option to enable/disable camera use in app

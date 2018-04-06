@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">My Food Budget</string>
+    <string name="title_activity_budget_setup">Budget Setup</string>
+    <string name="title_activity_my_expenses">My Expenses</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_new_expense">New Expense</string>
+    <string name="title_activity_expense_details">Expense Details</string>
+    <string name="title_activity_fullscreen_picture">FullscreenPictureActivity</string>
+
+    <!-- Strings for general use -->
+    <string name="per">per</string>
+    <string name="apply">Apply</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="restaurant">Restaurant</string>
+    <string name="grocery">Grocery</string>
+    <string name="you_have">You have</string>
+    <string name="budgeted_for_the_next">budgeted for the next</string>
+
+    <!-- Strings for BudgetSetupActivity -->
+    <string name="per_month">per month</string>
+    <string name="per_week">per week</string>
+    <string name="new_budget">New Budget:</string>
+    <string-array name="budget_interval_array">
+        <item>Month</item>
+        <item>Week</item>
+    </string-array>
+
+    <!-- Strings for MyExpensesActivity -->
+    <string name="no_expenses">You currently have no expenses. Enter an expense in the home screen!</string>
+    <string-array name="sort_array">
+        <item>Date</item>
+        <item>Amount</item>
+    </string-array>
+
+    <!-- Strings for SettingsActivity -->
+    <!--<string name="quick_entry_instructions">Quick Entry Mode allows you to skip the screen to add a
+        note and/or picture to your expense, recording the expense right away instead.</string>-->
+    <string name="quick_entry_instructions">Skip the screen to add a
+        note or picture to your expense, recording the expense right away instead.</string>
+
+    <!-- Strings for StatisticsActivity -->
+    <string name="uh_oh">Uh oh!</string>
+    <string name="your_spending_week">Based on your spending this week,</string>
+    <string name="your_spending_month">Based on your spending this month,</string>
+    <string name="within_budget">you\'re on track to spend within your\ncurrent budget. Great job!</string>
+    <string name="over_budget">you\'re on track to spend over your\ncurrent budget.</string>
+    <string name="remaining_week">Predicted amount remaining in\nbudget at the end of this week: \t</string>
+    <string name="remaining_month">Predicted amount remaining in\nbudget at the end of this month: \t</string>
+    <string name="spent_per_day">Avg amount spent per day: \t</string>
+    <string name="spent_per_week">Avg amount spent per week: \t</string>
+    <string name="most_spent_day">Most spent in one day: \t</string>
+    <string name="most_spent_week">Most spent in one week: \t</string>
+    <string name="spent_on">Average amount spent on</string>
+    <string name="mondays">Mondays: \t</string>
+    <string name="tuesdays">Tuesdays: \t</string>
+    <string name="wednesdays">Wednesdays: \t</string>
+    <string name="thursdays">Thursdays: \t</string>
+    <string name="fridays">Fridays: \t</string>
+    <string name="saturdays">Saturdays: \t</string>
+    <string name="sundays">Sundays: \t</string>
+
+    <!-- Strings for ExpenseDetailsActivity -->
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="confirm">Confirm</string>
+    <string-array name="expense_type_array">
+        <item>Restaurant</item>
+        <item>Grocery</item>
+    </string-array>
+
+</resources>
